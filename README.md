@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Onassis</h1>
-<h3 align="center">A Big Data and AI researcher, and entrepreneur</h3>
+<h3 align="center">A Big Data and AI researcher, and Entrepreneur</h3>
 
 - 🔭 I’m currently working on **LLM Applications**
 
 - 👯 I’m looking to collaborate on **AI Ethics**
 
-- 👨‍💻 All of my projects are available at [https://oanottage.com](https://oanottage.com)
+- 👨‍💻 All of my completed projects are available at [https://oanottage.com](https://oanottage.com)
 
-- 💬 Ask me about **Business Intelligence, Artificial Intelligence, Big Data Infrastructure, Design Thinking**
+- 💬 Ask me about **Design Thinking, Business Intelligence, Big Data Infrastructure, and Artificial Intelligence**
 
 - 📫 How to reach me **oanottage@gmail.com**
 
