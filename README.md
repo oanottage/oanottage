@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI Ethics**
 
-- 👨‍💻 All of my completed projects are available at [https://oanottage.com](https://oanottage.com, target="_new")
+- 👨‍💻 All of my completed projects are available at [https://oanottage.com](https://oanottage.com target="_new")
 
 - 💬 Ask me about **Design Thinking, Business Intelligence, Big Data Infrastructure, and Artificial Intelligence**
 
